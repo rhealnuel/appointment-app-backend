@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+yarn.lock
+
+# Cache files
+.cache/
+coverage/
+dist/
+out/
+build/
+
+# Editor-specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+.vercel/
+.netlify/
+
+# Expo / React Native
+.expo/
+.expo-shared/
